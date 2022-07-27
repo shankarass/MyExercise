@@ -9,3 +9,7 @@
     To find transtive dependencies(From Java 8), jdeps command is being used. By passing the class name, 
     the dependencies for the supplied class can be predicted. This is helpful to avoid issues related to 
     dependencies when deploying an entierprise application
+
+Attached screenshots in the following folder to show the outcome of jdeps command.
+
+    screenshots\
